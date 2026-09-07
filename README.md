@@ -1,38 +1,24 @@
-# Olá, eu sou o [Seu Nome]! 👋
 
-## 🚀 Sobre Mim
-Aqui você pode escrever uma breve introdução sobre você. Fale sobre suas paixões, o que está estudando no momento e quais são seus objetivos profissionais. 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Samuel Baptista) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samubaptista_reer_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelbaptista1998@gmail.com) 
 
-- 🔭 Atualmente estou trabalhando em **[Nome do Projeto/Empresa]**
-- 🌱 Aprendendo constantemente sobre **[Tecnologia X]** e **[Tecnologia Y]**
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, Python...**
-- ✉️ Como me encontrar: **seu-email@email.com**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=samuelbaptista1998&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=samuelbaptista1998&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=samuelbaptista1998&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samuelbaptista1998&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Minhas Habilidades / Tech Stack
-<!-- Substitua ou adicione os links abaixo pelas tecnologias que você domina -->
-<div align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="Git" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samuelbaptista1998&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=samuelbaptista1998&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## 📊 Estatísticas do GitHub
-<!-- Troque "seu-usuario" pelo seu nome de usuário real do GitHub -->
-<div align="left">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</div>
-
----
-
-## 🌐 Conecte-se comigo
-<div align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" target="_blank"></a> 
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" target="_blank"></a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
