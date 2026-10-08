@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante Estudante de Análise e Desenvolvimento de Sistemas<br>ETEC Prof Massuyuki Kawano Tupã/SP<br>Atualmente, não trabalho na área de desenvolvimento de sistemas, <br>mas estou em um momento de transição de carreira. <br>Estou buscando mudar de emprego para ingressar definitivamente<br>nesse setor. Tenho me dedicado a estudar as tecnologias exigidas<br>pelo mercado e procuro uma oportunidade prática para aplicar <br>esse conhecimento e evoluir como profissional na área de tecnologia.<br>
+ Estudante de Análise e Desenvolvimento de Sistemas<br>ETEC Prof Massuyuki Kawano Tupã/SP<br>Atualmente, não trabalho na área de desenvolvimento de sistemas, <br>mas estou em um momento de transição de carreira. <br>Estou buscando mudar de emprego para ingressar definitivamente<br>nesse setor. Tenho me dedicado a estudar as tecnologias exigidas<br>pelo mercado e procuro uma oportunidade prática para aplicar <br>esse conhecimento e evoluir como profissional na área de tecnologia.<br>
 
 
 ## 🌐 Socials:
